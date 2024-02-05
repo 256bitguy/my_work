@@ -1,5 +1,5 @@
 { 
-  [
+   "data":[
         { "react": "React Data 1", "dsa": "DSA Data 1", "backend": "Backend Data 1" },
         { "react": "React Data 2", "dsa": "DSA Data 2", "backend": "Backend Data 2" },
         { "react": "React Data 3", "dsa": "DSA Data 3", "backend": "Backend Data 3" }]
